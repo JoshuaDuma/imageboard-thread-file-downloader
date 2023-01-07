@@ -1,0 +1,7 @@
+{
+    "name": "imageboard-thread-file-downloader",
+    "description": "This project allows you to download all the files in an image board thread, such as 4chan to your local storage. To use effectively, go to your browser's download settings and set a path and allow for automated downloads. Some browsers may require the input allow pasting into the console before the script can be used.",
+    "version": "1.0.0",
+    "author": "Joshua Duma (https://github.com/JoshuaDuma)",
+    "license": "MIT"
+  }
