@@ -56,12 +56,6 @@
   </ol>
 </details>
 
-### Built With
-
-* [![JavaScript][JavaScript]][JavaScript-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
